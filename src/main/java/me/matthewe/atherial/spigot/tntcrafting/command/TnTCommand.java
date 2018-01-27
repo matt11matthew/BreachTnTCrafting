@@ -22,7 +22,6 @@ public class TnTCommand implements CommandExecutor {
                 player.sendMessage(ChatColor.translateAlternateColorCodes('&', crafting.getCraftTntMessage()).replaceAll("%amount%", String.valueOf(amount)));
             } else {
                 player.sendMessage(ChatColor.translateAlternateColorCodes('&', crafting.getNoMaterialMessage()).replaceAll("%amount%", String.valueOf(amount)));
-
             }
         }
         return true;
