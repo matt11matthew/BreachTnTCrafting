@@ -1,0 +1,12 @@
+craftTntMessage: "&cYou've crafted &7%amount% &cTNT"
+reloadConfigMessage: "&aConfig reloaded."
+reloadConfigPermission: "config.reload"
+usePermission: "tntcraft.use"
+noMaterialMessage: "&cYou don't have the required materials to craft tnt"
+requiredSandPerTnT: 4
+requiredSulfurPerTnT: 5
+customTnTItem: true
+tnt:
+  displayName: "&cBreach Tnt"
+  lore:
+   - "&7Place this tnt"

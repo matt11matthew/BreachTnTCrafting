@@ -1,0 +1,8 @@
+main: me.matthewe.atherial.spigot.tntcrafting.TnTCrafting
+version: 1.0.0
+name: BreachTNT
+description: BreachTNT
+authors: [MatthewE]
+commands:
+  tnt:
+  breantntreload:
